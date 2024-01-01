@@ -1,0 +1,36 @@
+.techno{
+  height: 308px;
+  width: 1440px;  
+  display: flex;
+padding: 64px 165px;
+align-items: center;
+gap: 30px;
+background: #FFF;
+justify-content: space-between;
+}
+
+.work{
+    margin-top: 4.3vw;
+    width: 350px;
+    height: 120px;
+    color:  #18191F;
+font-feature-settings: 'liga' off;
+font-family: sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: 60px; /* 125% */
+}
+
+.images{
+
+    background-color: #fff;
+   margin-left: 2vw;
+    gap: .5vw;
+    height: 48px;
+  
+   flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

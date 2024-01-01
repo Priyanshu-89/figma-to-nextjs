@@ -1,0 +1,47 @@
+.header{
+    width: 1440px;
+    height: 72px;
+    flex-shrink: 0;
+ 
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 7vw;
+}
+.logo{
+    width: 176.914px;
+height: 31.697px;
+flex-shrink: 0;
+
+}
+
+.links{
+    display: inline-flex;
+align-items: center;
+gap: 36px;
+}
+
+.links a{
+    text-align: center;
+/* font-family: Proxima Nova; */
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+color: #0B0D17;
+}
+
+.links button{
+   
+width: 107px;
+height: 40px;
+padding: 12px 15px;
+font-size: 16px;
+border-radius: 8px;
+background: #0555FF;
+outline: none;
+border: none;
+color: #FFFFFF;
+}

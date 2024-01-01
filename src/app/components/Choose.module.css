@@ -1,0 +1,62 @@
+.choose{
+    display: flex;
+width: 1440px;
+padding: 80px 165px;
+flex-direction: column;
+align-items: flex-start;
+gap: 6px;
+
+height: 852px;
+
+margin: auto;
+}
+
+.heading{
+    width: 540px;
+    color: #000;
+font-family: sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: 60px; 
+}
+
+.choose1{
+  
+    width: 980px;
+    height: 616px;
+ 
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    gap: 1vw;
+    
+}
+
+.chhose_con{
+    margin-top: 2.8vw;
+    width: 1140px;
+    height: 616px;
+ 
+}
+
+.para{
+    margin-bottom: 3vw;
+    line-height: 1.8vw;
+}
+
+.part2{
+    display: flex;
+    gap: 3vw;
+}
+
+.img{
+    width: 70px;
+    object-fit: contain;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 5vw;
+}

@@ -1,0 +1,166 @@
+.Footer{
+    width: 1440px;
+    height: 702px;
+    flex-shrink: 0;
+    background:  #0B0D17;
+    padding: 80px 165px;
+    margin: auto;
+    
+}
+
+.quick{
+    display: flex;
+width: 1110px;
+justify-content: space-between;
+align-items: flex-start;
+height: 338px;
+
+}
+
+.qucik_con{
+    width: 225px;
+    height: 176px;
+    margin-right: 5vw;
+}
+
+.image{
+    width: 177px;
+    height: 32px;
+    margin-bottom: 16px;
+}
+
+.para{
+    width: 255px;
+    height: 88px;
+    color:  #E5E9F2;
+font-family: sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; 
+opacity: 0.6;
+margin-bottom: 16px;
+}
+
+.icons{
+    width: 150px;
+    height: 24px;
+
+    display: flex;
+    gap: 14px;
+}
+
+.reach{
+    width: 248px;
+    height: 290px;
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 12px;
+}
+
+.head{
+    width: 255px;
+    height: 24px;
+    color: #FFF;
+font-family: sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+margin-bottom: 24px;
+}
+
+.email{
+    width: 149px;
+    height: 22px;
+    display: flex;
+    gap: 14px;
+    margin-bottom: 13px;
+}
+
+.el{
+    color: #E5E9F2;
+font-family: sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 22px; /* 157.143% */
+text-decoration-line: underline;
+opacity: 0.6;
+}
+
+.usa{
+    width: 220px;
+    height: 110px;
+    display: flex;
+    flex-direction: column;
+}
+
+.uni{
+    color:  #E5E9F2;
+font-family: sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px; 
+opacity: 0.6;
+}
+
+.santa{
+    opacity: 0.6;
+color:  #E5E9F2;
+font-family:sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+}
+
+
+.mob{
+    opacity: 0.6;
+color: #00AEEF;
+font-family:sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+margin-bottom: 12px;
+}
+
+.india{
+    width: 220px;
+    height: 132px;
+    display: flex;
+    flex-direction: column;
+}
+
+.services{
+    color:#E5E9F2;
+font-family:sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; 
+opacity: 0.6;
+height: 22px;
+margin-bottom: 16px;
+}
+
+.lower{
+    width: 1440px;
+height: 72px;
+color: #E5E9F2;
+/* background-color: #fff; */
+margin-top: 15vw;
+display: flex;
+justify-content: space-between;
+}
+
+.img1{
+   width: 220px;
+   height: 540px;
+
+
+}
