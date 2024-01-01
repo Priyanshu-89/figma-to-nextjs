@@ -1,4 +1,4 @@
-import styles from './/portfolio.module.css'
+import styles from './Portfolio.module.css'
 
 import React from 'react'
 
